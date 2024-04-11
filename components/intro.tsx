@@ -67,7 +67,7 @@ export default function Intro() {
         <span className="font-bold">Hello, I'm Dharrsan.</span> I'm a{" "}
         <span className="font-bold">Jr DevOps/SRE Engineer</span> with{" "}
         <span className="font-bold">1 year</span> of experience. I enjoy Linux,
-        shipping & scaling<span className="italic">applications </span>. My focus is{" "}
+        shipping & scaling <span className="italic">{" "} applications </span>. My focus is{" "}
         <span className="underline">Kubernetes</span>.
       </motion.h1>
 
